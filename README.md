@@ -3,8 +3,8 @@
  
 | Field | Details |
 |-------|---------|
-| **Student Name** | Rishi Gupta |
-| **Registration Number** | 24BCE10641 |
+| **Student Name** | Aryan Nair |
+| **Registration Number** | 24BEY10133 |
 | **Course** | Open Source Software (OSS NGMC) |
 | **Chosen Software** | Python Programming Language |
 | **License** | PSF License v2 |
@@ -82,7 +82,7 @@ All scripts require only a standard **bash** shell and standard Linux utilities.
  
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/RishiGupta467/OSS_Audit_24BCE10641.git
+git clone https://github.com/aryannair2005-rgb/OSS_Audit_24BEY10133.git
 cd OSS_Audit_24BCE10641
 ```
  
