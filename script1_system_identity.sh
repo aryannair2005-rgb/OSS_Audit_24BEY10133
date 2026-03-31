@@ -1,13 +1,13 @@
 #!/bin/bash
 # ============================================================
 # Script 1: System Identity Report
-# Author: Rishi Gupta| Registration: 24BCE10641
+# Author: Aryan Nair| Registration: 24BEY10133
 # Course: Open Source Software | VIT Bhopal
 # Purpose: Display a formatted summary of the Linux system
 # ============================================================
 
 # --- Student and project variables ---
-STUDENT_NAME="Rishi Gupta"          # Replace with your name
+STUDENT_NAME="Aryan Nair"          # Replace with your name
 SOFTWARE_CHOICE="Python"             # Our chosen open-source software
 
 # --- Collect system information using command substitution ---
